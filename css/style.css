@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  border-top: 5px solid #8b96a8;
+  border-bottom: 5px solid #8b96a8;
+  margin: 30px auto;
+  width: 800px;
+  padding: 50px;
+  background: #F6F6F6;
+}
+
+.current_page {
+  font-style: italic;
+}
+
+nav {
+text-align: center;
+color: #222;
+}
+
+nav ul {
+list-style: none;
+  padding: 0px;
+}
+
+nav li {
+display: inline-block;
+}
+
+h1 {
+  text-transform: uppercase;
+text-align: center;
+margin-top: 0;
+color: #030609;
+font-weight: bold;
+}
+
+.avatar {
+  height: 200px;
+  float: right;
+  border: 1px solid #123;
+padding: 5px;
+margin-left: 20px;
+margin-right: 20px;
+
+a {
+font-weight: bold;
+color: #0500332;
+
+}
+
+
+}
